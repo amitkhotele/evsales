@@ -1,6 +1,8 @@
 # ⚡ Electric Vehicle Sales Data Analysis & Forecasting
 An interactive data analysis and forecasting project to explore and predict the growth of Electric Vehicle (EV) sales across different states in India.
 
+#Project link: https://evsales.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
