@@ -47,6 +47,14 @@ Built with **Python**, **Plotly**, and **Streamlit**, this project delivers a **
 
 ---
 
+##  Pictures
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 132103" src="https://github.com/user-attachments/assets/86647aad-7299-4d1b-8a3c-2ba25f21ee1a" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 132204" src="https://github.com/user-attachments/assets/a3a59b45-fc70-435e-b6fb-87a0f2b1a2b9" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 132223" src="https://github.com/user-attachments/assets/4373b4c7-f6f9-48af-bce3-5e9d2f6f20cd" />
+
+
+---
+
 ## 📊 Key Insights
 - **Maharashtra**, **Tamil Nadu**, and **Delhi** are top-performing states in EV sales.
 - **Two-wheelers** contribute the highest share of total EV sales.
